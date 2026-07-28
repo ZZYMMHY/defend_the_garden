@@ -1,0 +1,9 @@
+# Godot-generated editor and import cache
+.godot/
+
+# macOS metadata
+.DS_Store
+
+# Local captures and exported builds
+captures/
+builds/
